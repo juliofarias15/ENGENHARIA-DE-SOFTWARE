@@ -4,6 +4,4 @@ Professor: José Alves Sousa
 
 Sumário  
 
-REDMINE
-
 [REDMINE](https://github.com/juliofarias15/Resumos/blob/master/README.md)
